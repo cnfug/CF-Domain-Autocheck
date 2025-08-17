@@ -4646,5 +4646,5 @@ function getSetupHTML() {
     </div>
   </div>
 </body>
-</html>`;
+</html>
 }
